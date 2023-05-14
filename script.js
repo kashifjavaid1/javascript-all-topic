@@ -4,5 +4,12 @@
 // var result=a+b;
 // console.log(result);
 //  string variable
-var a="kashif";
-alert(a);
+// var a="kashif";
+// alert(a);
+
+// operaters
+// var ab=12;
+// var bc=22;
+// alert(ab+bc);
+
+
