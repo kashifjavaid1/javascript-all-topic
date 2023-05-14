@@ -43,16 +43,16 @@
 // }
 
 // function 
-function res(marks) {
-    var marks=+prompt("user enter a total marks");
-if (marks>=80 && marks<=100) {
-    console.log("A++ grade");
-} 
-else if (marks>=70 && marks<80) {
-    console.log("A garde");
-}
-else if (marks>=60 && marks<70) {
-    console.log("B grade");
-}
-}
-res()
+// function res(marks) {
+//     var marks=+prompt("user enter a total marks");
+// if (marks>=80 && marks<=100) {
+//     console.log("A++ grade");
+// } 
+// else if (marks>=70 && marks<80) {
+//     console.log("A garde");
+// }
+// else if (marks>=60 && marks<70) {
+//     console.log("B grade");
+// }
+// }
+// res()
