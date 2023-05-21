@@ -56,3 +56,10 @@
 // }
 // }
 // res()
+var abc=+prompt("Enter a number");
+
+for (var  index = 0; abc <= 10; index++) {
+    // const element = abc[index];
+    console.log(abc,"=",index,"*",abc*index );
+    
+}
