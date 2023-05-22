@@ -56,10 +56,23 @@
 // }
 // }
 // res()
-var abc=+prompt("Enter a number");
+// var abc=+prompt("Enter a number");
 
-for (var  index = 0; abc <= 10; index++) {
-    // const element = abc[index];
-    console.log(abc,"=",index,"*",abc*index );
+// for (var  index = 0; abc <= 10; index++) {
+//     const element = abc[index];
+//     console.log(abc,"=",index,"*",abc*element );
     
+// // }
+// var ab=+prompt("table");
+// for (var index = 1; index<=ab.length; index++) {
+//     // const element = ab[index];
+//     // console.log(element);
+//     console.log(ab,"*",index,"=",(ab*index));
+    
+// }
+
+var ab = +prompt("Enter a number: ");
+
+for (var index = 1; index <= 10; index++) {
+    console.log(ab + " * " + index + " = " + (ab * index));
 }
